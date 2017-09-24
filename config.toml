@@ -1,6 +1,6 @@
 BaseURL = "http://coderzh.github.io/"
 LanguageCode = "EN"
-
+publishDir = "docs"
 themesDir = "themes"
 Title = "Catabolic Coffee"
 Theme = "pacman"
