@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Catabolic Coffee</title>
-    <link>http://coderzh.github.io/</link>
+    <link>https://kaitlynchan.github.io/cataboliccoffee/</link>
     <description>Recent content on Catabolic Coffee</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>EN</language>
     <lastBuildDate>Sat, 23 Sep 2017 18:08:21 -0700</lastBuildDate>
     
-	<atom:link href="http://coderzh.github.io/feed.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://kaitlynchan.github.io/cataboliccoffee/feed.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>First Post</title>
-      <link>http://coderzh.github.io/post/first-post/</link>
+      <link>https://kaitlynchan.github.io/cataboliccoffee/post/first-post/</link>
       <pubDate>Sat, 23 Sep 2017 18:08:21 -0700</pubDate>
       
-      <guid>http://coderzh.github.io/post/first-post/</guid>
+      <guid>https://kaitlynchan.github.io/cataboliccoffee/post/first-post/</guid>
       <description>Welcome to Catabolic Coffee!! We hope you like our new website ^-^</description>
     </item>
     
