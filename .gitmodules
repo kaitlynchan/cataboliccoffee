@@ -1,0 +1,6 @@
+[submodule "hugo-pacman-theme"]
+	path = hugo-pacman-theme
+	url = https://github.com/coderzh/hugo-pacman-theme.git
+[submodule "themes/pacman"]
+	path = themes/pacman
+	url = https://github.com/coderzh/hugo-pacman-theme.git
