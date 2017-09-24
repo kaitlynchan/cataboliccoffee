@@ -22,8 +22,7 @@ RSSUri = "feed.xml"
   DateFormat = "2006.01.02"
   MonthFormat = "2006.01"
   FancyBox = true
-  # DuoShuoShortName = "cc"
-  DisqusShortName = "cc"
+
   GoogleAnalyticsID = "UA-10147768-2"
 
   [Params.Strings]
