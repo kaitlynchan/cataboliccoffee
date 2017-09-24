@@ -33,5 +33,14 @@ Balalalalala&amp;hellip;
       <description>Welcome to Catabolic Coffee!! We hope you like our new website ^-^</description>
     </item>
     
+    <item>
+      <title>about</title>
+      <link>https://kaitlynchan.github.io/cataboliccoffee/about/</link>
+      <pubDate>Sun, 20 Mar 2016 23:28:02 +0800</pubDate>
+      
+      <guid>https://kaitlynchan.github.io/cataboliccoffee/about/</guid>
+      <description>关于 Hugo 主题 balabalbalbalbal&amp;hellip;</description>
+    </item>
+    
   </channel>
 </rss>

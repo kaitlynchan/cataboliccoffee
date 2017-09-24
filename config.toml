@@ -43,7 +43,7 @@ RSSUri = "feed.xml"
 
 [Menu]
   [[Menu.Main]]
-    Name = "Name"
+    Name = "About"
     URL = "/"
     Weight = 1
   [[Menu.Main]]
