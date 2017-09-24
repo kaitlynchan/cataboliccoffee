@@ -14,12 +14,9 @@ RSSUri = "feed.xml"
 [Params]
   AuthorHomepage = "https://kaitlynchan.github.io/cataboliccoffee/"
   BottomIntroduce = "Kaitlyn Chan, Kiana Hocutt, Nicole Tan <br/> Economics Period 2"
-  Description = ""
-  Subtitle = "Welcome to Catabolic Coffee!"
-  Twitter = ""
-  GitHub = ""
-  Facebook = ""
-  LinkIn = ""
+  Description = "asdfjdlk"
+  Subtitle = "Purr-fect relaxation lies ahead."
+
   Imglogo = "img/logo.svg"
   AuthorImg = "img/author.jpg"
   DateFormat = "2006.01.02"
@@ -43,10 +40,10 @@ RSSUri = "feed.xml"
 
 [Menu]
   [[Menu.Main]]
-    Name = "About"
+    Name = "Home"
     URL = "/"
     Weight = 1
   [[Menu.Main]]
-    Name = "Name"
+    Name = "About"
     URL = "/about"
     Weight = 2
