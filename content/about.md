@@ -4,12 +4,17 @@ title = "about"
 
 +++
 
-## 关于
+## Founders
 
-### Hugo
+### Kaitlyn Chan
+Hi, I like cats!
 
-### 主题
+### Kiana Hocutt
 
-balabalbalbalbal...
+Lemons lol.
+
+### Nicole Tan
+
+The cute one :) 
 
 
