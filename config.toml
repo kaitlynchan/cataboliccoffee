@@ -1,4 +1,4 @@
-BaseURL = "http://coderzh.github.io/"
+BaseURL = "https://kaitlynchan.github.io/cataboliccoffee/"
 LanguageCode = "EN"
 publishDir = "docs"
 themesDir = "themes"
